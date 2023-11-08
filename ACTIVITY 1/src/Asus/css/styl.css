@@ -1,0 +1,26 @@
+.mt{
+    color: black
+}
+.all{
+    height:400px;
+    width: 300px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #7fffd4;
+      flex-direction: column;
+      border-radius: 15px;
+}
+body{
+    display: flex;
+    height: 100vh;
+    width: 100vw;
+    background-color: rgba(204, 196, 81, 0.744);
+    justify-content: center;
+      align-items: center;
+}
+.mm{
+    color:whitesmoke;
+    background-color:violet;
+    border-radius:20% ;
+}
