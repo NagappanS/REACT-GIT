@@ -1,0 +1,23 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background: #000428;
+    background: -webkit-linear-gradient(to right, #004e92, #000428);  
+    background: linear-gradient(to right, #004e92, #000428); 
+}
+.p{
+    color:whitesmoke;
+}
+.m{
+    display: flex;
+    height: 400px;
+    width: 600px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8%;
+    margin-top: 15%;
+    background: #43C6AC; 
+    background: -webkit-linear-gradient(to right, #191654, #43C6AC);  
+    background: linear-gradient(to right, #191654, #43C6AC); 
+}
